@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" align="right"  width="400" height="250">
+<img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" align="right"  width="300" height="150">
 
 ### Hi there , I' am Beyza Nur. :blush:
 
